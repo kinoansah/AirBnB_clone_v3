@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Kingsley Owusu Ansah - [Github](https://github.com/kinoansah) / [LinkedIn](https://www.linkedin.com/in/kingsley-owusu-ansah/)  
-Uchechukwu Madumere - [Github]() / [LinkedIn]()
+Uchechukwu Madumere - [Github](https://github.com/relars91) / [LinkedIn]()
 
 ## License
 Public Domain. No copy write protection. 
